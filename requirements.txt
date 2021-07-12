@@ -1,0 +1,2 @@
+Requires line segment detection (LSD) from pylsd.
+Requires OpenCV.
